@@ -3,6 +3,9 @@
 ## Overview
 This is a custom compiler for the equation `Z = C - (A*B)*D`. It parses the exact syntax of the equation and computes the result based on user-provided values.
 
+## Repository
+You can find the full source code on GitHub: [https://github.com/Glencode-334/CustomCompiler](https://github.com/Glencode-334/CustomCompiler)
+
 ## Files
 - **compute.h**: Defines all the token types needed for our expression, including Z, C, A, B, D, operators, and parentheses.
 - **main.c**: Simple entry point that prompts the user and calls the main computation function.
